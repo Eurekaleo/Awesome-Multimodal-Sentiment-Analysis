@@ -65,7 +65,7 @@ There are three subtasks:
 - `Scene graph classification`: joint classification of predicate labels and the objects' category given the grounding bounding boxes.
 - `Scene graph detection`: detect the objects and their categories, and predict the predicate between object pairs.
 
-### LLM-based 
+### Multimodal Sentiment Analysis (MSA) 
 
 + [**A fine-grained modal label-based multi-stage network for multimodal sentiment analysis**](https://www.sciencedirect.com/science/article/pii/S0957417423002221) [![Paper](https://img.shields.io/badge/Elsevier25-32CD32)]()
 
@@ -331,3 +331,67 @@ There are three subtasks:
 + [**USING AUXILIARY TASKS IN MULTIMODAL FUSION OF WAV2VEC 2.0 AND BERT FOR MULTIMODAL EMOTION RECOGNITION**](https://ieeexplore.ieee.org/abstract/document/10096586/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
 
 + [**Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation**](https://arxiv.org/abs/2107.06779) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
+
+### Multimodal Aspect-based Sentiment Analysis (MABSA)
+
++ [**A Survey on Multimodal Aspect-Based Sentiment Analysis**](https://ieeexplore.ieee.org/abstract/document/10401113/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
+
++ [**AoM Detecting Aspect-oriented Information for Multimodal**](https://arxiv.org/abs/2306.01004) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
++ [**Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis**](https://www.sciencedirect.com/science/article/pii/S0306457323002455) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
+
++ [**Cross-Modal Multitask Transformer for End-to-End Multimodal Aspect-Based Sentiment Analysis**](https://www.sciencedirect.com/science/article/pii/S0306457322001479) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
+
++ [**Dual-Encoder Transformers with Cross-modal Alignment for Multimodal Aspect-based Sentiment Analysis**](https://aclanthology.org/2022.aacl-main.32/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
+
++ [**Entity-Sensitive Attention and Fusion Network for Entity-Level Multimodal Sentiment Classification**](https://ieeexplore.ieee.org/document/8926404) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
+
++ [**Few-shot Joint Multimodal Aspect-Sentiment Analysis Based on Generative Multimodal Prompt**](https://arxiv.org/abs/2305.10169) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
++ [**Few-shot joint multimodal aspect-sentiment analysis based on generative**](https://arxiv.org/abs/2305.10169) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
++ [**Fusion with GCN and SE-ResNeXt Network for Aspect Based Multimodal Sentiment Analysis**](https://ieeexplore.ieee.org/document/10082618) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
+
++ [**Hierarchical Interactive Multimodal Transformer for Aspect-Based Multimodal Sentiment Analysis**](https://ieeexplore.ieee.org/document/9765342) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
+
++ [**M2DF- Multi-grained Multi-curriculum Denoising Framework for Multimodal Aspect-based Sentiment Analysis**](https://arxiv.org/abs/2310.14605) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
++ [**MASAL A large-scale dataset for multimodal aspect-based sentiment**](https://www.sciencedirect.com/science/article/pii/S0925231221007931) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
+
++ [**MMCPR: A Chinese Product Review Dataset for Multimodal Aspect-Based Sentiment Analysis**](https://dl.acm.org/doi/abs/10.1007/978-3-031-23585-6_8) [![Paper](https://img.shields.io/badge/ACM25-FFA500)]()
+
++ [**MOCOLNet A Momentum Contrastive Learning Network for Multimodal Aspect-Level Sentiment Analysis**](MOCOLNet_A_Momentum_Contrastive_Learning_Network_for_Multimodal_Aspect-Level_Sentiment_Analysis) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
+
++ [**ModalNet an Aspect-level sentiment classification model by exploring multimodal data with fusion discriminant attentional networks**](https://link.springer.com/article/10.1007/s11280-021-00955-7) [![Paper](https://img.shields.io/badge/Springer25-20B2AA)]()
+
++ [**MSRA- A Multi-Aspect Semantic Relevance Approach for E-Commerce via Multimodal Pre-Training**](https://dl.acm.org/doi/abs/10.1145/3583780.3615224) [![Paper](https://img.shields.io/badge/ACM25-FFA500)]()
+
++ [**Multi-grained fusion network with self-distillation for aspect-based multimodal sentiment analysis**](https://www.sciencedirect.com/science/article/pii/S0950705124003599) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
+
++ [**Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis**](https://ojs.aaai.org/index.php/AAAI/article/view/3807) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
+
++ [**Multi Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis**](https://ojs.aaai.org/index.php/AAAI/article/view/3807) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
+
++ [**Retrieving Users’ Opinions on Social Media with Multimodal Aspect-Based Sentiment Analysis**](https://ieeexplore.ieee.org/abstract/document/10066699/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
+
++ [**Targeted Multimodal Sentiment Classification Based on**](https://www.ijcai.org/proceedings/2022/0622.pdf) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
+
++ [**Targeted Aspect-Based Multimodal Sentiment Analysis An Attention Capsule Extraction and Multi-Head Fusion Network**](https://ieeexplore.ieee.org/document/9606882) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
+
++ [**Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis 2**](https://arxiv.org/abs/2204.07955) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
++ [**Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis**](https://arxiv.org/abs/2204.07955) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
++ [**VistaNet Visual Aspect Attention Network for Multimodal Sentiment Analysis**](https://ojs.aaai.org/index.php/AAAI/article/view/3799) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
+
++ [**Visual Attention Model for Name Tagging in Multimodal Social Media**](https://aclanthology.org/P18-1185/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
+
+
+### Multimodal Multi-label Emotion Recognition (MMER)
+
++ [**Label Distribution Adaptation for Multimodal Emotion Recognition with Multi-label Learning**](https://dl.acm.org/doi/abs/10.1145/3607865.3613183) [![Paper](https://img.shields.io/badge/ACM25-FFA500)]()
+
++ [**Multi-Label Multimodal Emotion Recognition With Transformer-Based Fusion and Emotion-Level Representation Learning**](https://ieeexplore.ieee.org/abstract/document/10042438/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
+
++ [**Multimodal Emotion Classification**](https://dl.acm.org/doi/abs/10.1145/3308560.3316549) [![Paper](https://img.shields.io/badge/ACM25-FFA500)]()
