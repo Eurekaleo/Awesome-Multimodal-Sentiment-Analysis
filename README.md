@@ -406,3 +406,9 @@ There are three subtasks:
 
 ### Multimodal Affective Computing with Missing_modality
 
++ [**Multimodal Reconstruct and Align Net for Missing Modality Problem in Sentiment Analysis**](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_34) [![Paper](https://img.shields.io/badge/Springer25-20B2AA)]()
+
++ [**integrating consistency and difference networks by transformer for multimodal sentiment analysis**](https://link.springer.com/article/10.1007/s10489-023-04869-x) [![Paper](https://img.shields.io/badge/Springer25-20B2AA)]()
+
++ [**assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities**](https://dl.acm.org/doi/abs/10.1145/3477495.3532064) [![Paper](https://img.shields.io/badge/ACM25-FFA500)]()
+
