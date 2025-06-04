@@ -6,6 +6,7 @@ Multimodal Sentiment Analysis is a computational task that aims to detect and in
 
 ---
 
+<!--
 # 📕 Table of Contents
 - [🌷 Scene Graph Datasets](#-datasets)
 - [🍕 Scene Graph Generation](#-scene-graph-generation)
@@ -23,10 +24,10 @@ Multimodal Sentiment Analysis is a computational task that aims to detect and in
   - [Survey](#survey)
   - [Insteresting Works](#insteresting-works)
 - [⭐️ Star History](#️-star-history)
-
+-->
 
 ---
-
+<!--
 # 🌷 Scene Graph Datasets
 <p align="center">
 
@@ -38,7 +39,7 @@ Multimodal Sentiment Analysis is a computational task that aims to detect and in
 | [Open Images v7](https://storage.googleapis.com/openimages/web/index.html)  | Image | 600 | 3,290,070 | 31 | 374,768 | 9,178,275 |
 | [Visual Genome](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html) | Image | 5,996 | 3,843,636 | 1,014 | 2,347,187 | 108,077 | 
 </p>
-
+-->
 
 ---
 
@@ -55,7 +56,7 @@ Multimodal Sentiment Analysis is a computational task that aims to detect and in
 <!-- ACL-191970 -->
 <!-- TPAMI-ffa07a -->
 
-
+<!--
 # 🍕 Scene Graph Generation
 
 ## 2D (Image) Scene Graph Generation
@@ -63,7 +64,7 @@ Multimodal Sentiment Analysis is a computational task that aims to detect and in
 There are three subtasks:
 - `Predicate classification`: given ground-truth labels and bounding boxes of object pairs, predict the predicate label.
 - `Scene graph classification`: joint classification of predicate labels and the objects' category given the grounding bounding boxes.
-- `Scene graph detection`: detect the objects and their categories, and predict the predicate between object pairs.
+-->
 
 ### Multimodal Sentiment Analysis (MSA) 
 
