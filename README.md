@@ -395,3 +395,14 @@ There are three subtasks:
 + [**Multi-Label Multimodal Emotion Recognition With Transformer-Based Fusion and Emotion-Level Representation Learning**](https://ieeexplore.ieee.org/abstract/document/10042438/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
 
 + [**Multimodal Emotion Classification**](https://dl.acm.org/doi/abs/10.1145/3308560.3316549) [![Paper](https://img.shields.io/badge/ACM25-FFA500)]()
+
+
+### Multimodal Emotion-cause Pair Extraction (MECPE)
+
++ [**LastResort at SemEval-2024 Task 3: Exploring Multimodal Emotion Cause Pair Extraction as Sequence Labelling Task**](https://arxiv.org/abs/2404.02088) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
+
++ [**Multimodal Emotion-Cause Pair Extraction in Conversations**](https://ieeexplore.ieee.org/document/9969873) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
+
+
+### Multimodal Affective Computing with Missing_modality
+
