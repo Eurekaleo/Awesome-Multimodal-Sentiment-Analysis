@@ -276,7 +276,7 @@ There are three subtasks:
 
 + [**A graph network based multimodal fusion technique for emotion recognition in conversation**](https://www.sciencedirect.com/science/article/pii/S0925231223005507) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
 
-+ [**Interspeech19 Learning Alignment for Multimodal Emotion Recognition from Speech**](Interspeech19_Learning Alignment for Multimodal Emotion Recognition from Speech) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
++ [**Learning Alignment for Multimodal Emotion Recognition from Speech**](https://arxiv.org/pdf/1909.05645) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
 
 + [**Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition**](https://arxiv.org/abs/2311.11009) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
