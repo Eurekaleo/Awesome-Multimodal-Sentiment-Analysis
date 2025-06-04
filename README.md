@@ -208,127 +208,127 @@ There are three subtasks:
 
 #### Multimodal Emotion Recognition in Conversation (MERC)
 
-+ [**A Contextualized Real-Time Multimodal Emotion Recognition for Conversational Agents using Graph Convolutional Networks in Reinforcement Learning**](https://arxiv.org/abs/2310.18363) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**A Contextualized Real-Time Multimodal Emotion Recognition for Conversational Agents using Graph Convolutional Networks in Reinforcement Learning**](https://arxiv.org/abs/2310.18363) [![Paper](https://img.shields.io/badge/arXiv10-b22222)]()
 
-+ [**A Facial Expression-Aware Multimodal Multi-task Learning Framework for Emotion Recognition in Multi-party Conversations**](https://aclanthology.org/2023.acl-long.861/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
++ [**A Facial Expression-Aware Multimodal Multi-task Learning Framework for Emotion Recognition in Multi-party Conversations**](https://aclanthology.org/2023.acl-long.861/) [![Paper](https://img.shields.io/badge/ACL23-b22222)]()
 
-+ [**A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations**](https://www.sciencedirect.com/science/article/pii/S1566253523000040) [![Paper](https://img.shields.io/badge/Elsevier25-32CD32)]()
++ [**A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations**](https://www.sciencedirect.com/science/article/pii/S1566253523000040) [![Paper](https://img.shields.io/badge/Elsevier25-b22222)]()
 
-+ [**A novel spatio-temporal convolutional neural framework for multimodal emotion recognition**](https://www.sciencedirect.com/science/article/pii/S1746809422004694) [![Paper](https://img.shields.io/badge/Elsevier25-32CD32)]()
++ [**A novel spatio-temporal convolutional neural framework for multimodal emotion recognition**](https://www.sciencedirect.com/science/article/pii/S1746809422004694) [![Paper](https://img.shields.io/badge/Elsevier25-b22222)]()
 
-+ [**A review of multimodal emotion recognition from datasets, preprocessing, features, and fusion methods**](https://www.sciencedirect.com/science/article/pii/S092523122300989X) [![Paper](https://img.shields.io/badge/Elsevier25-32CD32)]()
++ [**A review of multimodal emotion recognition from datasets, preprocessing, features, and fusion methods**](https://www.sciencedirect.com/science/article/pii/S092523122300989X) [![Paper](https://img.shields.io/badge/Elsevier25-b22222)]()
 
-+ [**A Sentiment and Emotion aware Multimodal Multiparty Humor Recognition in Multilingual Conversational Setting**](https://aclanthology.org/2022.coling-1.587/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
++ [**A Sentiment and Emotion aware Multimodal Multiparty Humor Recognition in Multilingual Conversational Setting**](https://aclanthology.org/2022.coling-1.587/) [![Paper](https://img.shields.io/badge/ACL22-b22222)]()
 
-+ [**A Transformer-based Model with Self-distillation for Multimodal Emotion Recognition in Conversations**](https://ieeexplore.ieee.org/abstract/document/10109845/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**A Transformer-based Model with Self-distillation for Multimodal Emotion Recognition in Conversations**](https://ieeexplore.ieee.org/abstract/document/10109845/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**A Unified Transformer-based Network for Multimodal Emotion Recognition**](https://arxiv.org/abs/2308.14160) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**A Unified Transformer-based Network for Multimodal Emotion Recognition**](https://arxiv.org/abs/2308.14160) [![Paper](https://img.shields.io/badge/arXiv08-b22222)]()
 
-+ [**ACCOMMODATING MISSING MODALITIES IN TIME-CONTINUOUS MULTIMODAL EMOTION RECOGNITION**](https://ieeexplore.ieee.org/abstract/document/10388079/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**ACCOMMODATING MISSING MODALITIES IN TIME-CONTINUOUS MULTIMODAL EMOTION RECOGNITION**](https://ieeexplore.ieee.org/abstract/document/10388079/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations**](https://arxiv.org/abs/1810.02508) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations**](https://arxiv.org/abs/1810.02508) [![Paper](https://img.shields.io/badge/arXiv10-b22222)]()
 
-+ [**Adaptive Multimodal Analysis for Speaker Emotion Recognition in Group Conversations**](https://arxiv.org/abs/2401.15164) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**Adaptive Multimodal Analysis for Speaker Emotion Recognition in Group Conversations**](https://arxiv.org/abs/2401.15164) [![Paper](https://img.shields.io/badge/arXiv01-b22222)]()
 
-+ [**A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations**](https://ieeexplore.ieee.org/document/10109845) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations**](https://ieeexplore.ieee.org/document/10109845) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**COntextualized GNN based Multimodal Emotion recognitioN**](https://aclanthology.org/2022.naacl-main.306/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
++ [**COntextualized GNN based Multimodal Emotion recognitioN**](https://aclanthology.org/2022.naacl-main.306/) [![Paper](https://img.shields.io/badge/ACL22-b22222)]()
 
-+ [**Context- and Knowledge-Aware Graph Convolutional Network for Multimodal Emotion Recognition**](Context-_and_Knowledge-Aware_Graph_Convolutional_Network_for_Multimodal_Emotion_Recognition) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
++ [**Context- and Knowledge-Aware Graph Convolutional Network for Multimodal Emotion Recognition**](Context-_and_Knowledge-Aware_Graph_Convolutional_Network_for_Multimodal_Emotion_Recognition) [![Paper](https://img.shields.io/badge/Other25-b22222)]()
 
-+ [**Convolutional Attention Networks for Multimodal Emotion Recognition from Speech and Text Data**](https://aclanthology.org/W18-3304/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
++ [**Convolutional Attention Networks for Multimodal Emotion Recognition from Speech and Text Data**](https://aclanthology.org/W18-3304/) [![Paper](https://img.shields.io/badge/ACL25-b22222)]()
 
-+ [**Incongruity-Aware Dynamic Hierarchical Fusion for Multimodal Affect Recognition**](https://www.researchgate.net/profile/Yuanchao-Li-5/publication/370981780_Cross-Attention_is_Not_Enough_Incongruity-Aware_Multimodal_Sentiment_Analysis_and_Emotion_Recognition/links/64a48b888de7ed28ba74a8aa/Cross-Attention-is-Not-Enough-Incongruity-Aware-Multimodal-Sentiment-Analysis-and-Emotion-Recognition.pdf) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
++ [**Incongruity-Aware Dynamic Hierarchical Fusion for Multimodal Affect Recognition**](https://www.researchgate.net/profile/Yuanchao-Li-5/publication/370981780_Cross-Attention_is_Not_Enough_Incongruity-Aware_Multimodal_Sentiment_Analysis_and_Emotion_Recognition/links/64a48b888de7ed28ba74a8aa/Cross-Attention-is-Not-Enough-Incongruity-Aware-Multimodal-Sentiment-Analysis-and-Emotion-Recognition.pdf) [![Paper](https://img.shields.io/badge/Other25-b22222)]()
 
-+ [**Cross-Language Speech Emotion Recognition Using Multimodal Dual Attention Transformers**](https://arxiv.org/abs/2306.13804) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**Cross-Language Speech Emotion Recognition Using Multimodal Dual Attention Transformers**](https://arxiv.org/abs/2306.13804) [![Paper](https://img.shields.io/badge/arXiv06-b22222)]()
 
-+ [**Cross-modal credibility modelling for EEG-based multimodal emotion recognition**](https://iopscience.iop.org/article/10.1088/1741-2552/ad3987/meta) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
++ [**Cross-modal credibility modelling for EEG-based multimodal emotion recognition**](https://iopscience.iop.org/article/10.1088/1741-2552/ad3987/meta) [![Paper](https://img.shields.io/badge/Other25-b22222)]()
 
-+ [**Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis**](https://www.sciencedirect.com/science/article/pii/S0306457323002455) [![Paper](https://img.shields.io/badge/Elsevier25-32CD32)]()
++ [**Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis**](https://www.sciencedirect.com/science/article/pii/S0306457323002455) [![Paper](https://img.shields.io/badge/Elsevier25-b22222)]()
 
-+ [**Decoupled Multimodal Distilling for Emotion Recognition**](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Decoupled_Multimodal_Distilling_for_Emotion_Recognition_CVPR_2023_paper.html) [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()
++ [**Decoupled Multimodal Distilling for Emotion Recognition**](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Decoupled_Multimodal_Distilling_for_Emotion_Recognition_CVPR_2023_paper.html) [![Paper](https://img.shields.io/badge/CVPR23-b22222)]()
 
-+ [**Deep Emotional Arousal Network for Multimodal Sentiment Analysis and Emotion Recognition**](https://www.sciencedirect.com/science/article/pii/S1566253522000653) [![Paper](https://img.shields.io/badge/Elsevier25-32CD32)]()
++ [**Deep Emotional Arousal Network for Multimodal Sentiment Analysis and Emotion Recognition**](https://www.sciencedirect.com/science/article/pii/S1566253522000653) [![Paper](https://img.shields.io/badge/Elsevier25-b22222)]()
 
-+ [**Deep learning based multimodal emotion recognition using model-level fusion of audio–visual modalities**](https://www.sciencedirect.com/science/article/pii/S0950705122002593) [![Paper](https://img.shields.io/badge/Elsevier25-32CD32)]()
++ [**Deep learning based multimodal emotion recognition using model-level fusion of audio–visual modalities**](https://www.sciencedirect.com/science/article/pii/S0950705122002593) [![Paper](https://img.shields.io/badge/Elsevier25-b22222)]()
 
-+ [**Deep Residual Adaptive Neural Network Based Feature Extraction for Cognitive Computing with Multimodal Sentiment Sensing and Emotion Recognition Process**](https://search.proquest.com/openview/5b82ac981d0318b3a57fe3bd2e737a49/1?pq-origsite=gscholar&cbl=52057) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
++ [**Deep Residual Adaptive Neural Network Based Feature Extraction for Cognitive Computing with Multimodal Sentiment Sensing and Emotion Recognition Process**](https://search.proquest.com/openview/5b82ac981d0318b3a57fe3bd2e737a49/1?pq-origsite=gscholar&cbl=52057) [![Paper](https://img.shields.io/badge/Other25-b22222)]()
 
-+ [**A Multimodal Transformer for Identifying Emotions and Intents in Social Conversations**](https://ieeexplore.ieee.org/abstract/document/9961847/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**A Multimodal Transformer for Identifying Emotions and Intents in Social Conversations**](https://ieeexplore.ieee.org/abstract/document/9961847/) [![Paper](https://img.shields.io/badge/IEEE99-b22222)]()
 
-+ [**Emotion recognition from unimodal to multimodal analysis: A review**](https://www.sciencedirect.com/science/article/pii/S156625352300163X) [![Paper](https://img.shields.io/badge/Elsevier25-32CD32)]()
++ [**Emotion recognition from unimodal to multimodal analysis: A review**](https://www.sciencedirect.com/science/article/pii/S156625352300163X) [![Paper](https://img.shields.io/badge/Elsevier25-b22222)]()
 
-+ [**Emotion Recognition with Pre-Trained Transformers Using Multimodal Signals**](https://ieeexplore.ieee.org/abstract/document/9953852/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**Emotion Recognition with Pre-Trained Transformers Using Multimodal Signals**](https://ieeexplore.ieee.org/abstract/document/9953852/) [![Paper](https://img.shields.io/badge/IEEE99-b22222)]()
 
-+ [**Emotion Recognition With Multimodal Transformer Fusion Framework Based on Acoustic and Lexical Information**](https://ieeexplore.ieee.org/document/9740502) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**Emotion Recognition With Multimodal Transformer Fusion Framework Based on Acoustic and Lexical Information**](https://ieeexplore.ieee.org/document/9740502) [![Paper](https://img.shields.io/badge/IEEE97-b22222)]()
 
-+ [**EXPLOITING MODALITY-INVARIANT FEATURE FOR ROBUST MULTIMODAL EMOTION RECOGNITION WITH MISSING MODALITIES**](https://ieeexplore.ieee.org/abstract/document/10095836/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**EXPLOITING MODALITY-INVARIANT FEATURE FOR ROBUST MULTIMODAL EMOTION RECOGNITION WITH MISSING MODALITIES**](https://ieeexplore.ieee.org/abstract/document/10095836/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**Exploiting Modality-Invariant Feature for Robust Multimodal Emotion Recognition with Missing Modalities**](Exploiting_Modality-Invariant_Feature_for_Robust_Multimodal_Emotion_Recognition_with_Missing_Modalities) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
++ [**Exploiting Modality-Invariant Feature for Robust Multimodal Emotion Recognition with Missing Modalities**](Exploiting_Modality-Invariant_Feature_for_Robust_Multimodal_Emotion_Recognition_with_Missing_Modalities) [![Paper](https://img.shields.io/badge/Other25-b22222)]()
 
-+ [**A novel multimodal emotion recognition approach integrating face, body and text**](https://arxiv.org/abs/2211.15425) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**A novel multimodal emotion recognition approach integrating face, body and text**](https://arxiv.org/abs/2211.15425) [![Paper](https://img.shields.io/badge/arXiv11-b22222)]()
 
-+ [**Few-shot Joint Multimodal Aspect-Sentiment Analysis Based on Generative Multimodal Prompt**](https://arxiv.org/abs/2305.10169) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**Few-shot Joint Multimodal Aspect-Sentiment Analysis Based on Generative Multimodal Prompt**](https://arxiv.org/abs/2305.10169) [![Paper](https://img.shields.io/badge/arXiv05-b22222)]()
 
-+ [**FUSING MODALITY-SPECIFIC REPRESENTATIONS AND DECISIONS FOR MULTIMODAL EMOTION RECOGNITION**](https://ieeexplore.ieee.org/abstract/document/10447035/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**FUSING MODALITY-SPECIFIC REPRESENTATIONS AND DECISIONS FOR MULTIMODAL EMOTION RECOGNITION**](https://ieeexplore.ieee.org/abstract/document/10447035/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**Learning Deep Representations for Multimodal Emotion Recognition**](https://dl.acm.org/doi/abs/10.1145/3581783.3612074) [![Paper](https://img.shields.io/badge/ACM25-FFA500)]()
++ [**Learning Deep Representations for Multimodal Emotion Recognition**](https://dl.acm.org/doi/abs/10.1145/3581783.3612074) [![Paper](https://img.shields.io/badge/ACM25-b22222)]()
 
-+ [**A graph network based multimodal fusion technique for emotion recognition in conversation**](https://www.sciencedirect.com/science/article/pii/S0925231223005507) [![Paper](https://img.shields.io/badge/Elsevier25-32CD32)]()
++ [**A graph network based multimodal fusion technique for emotion recognition in conversation**](https://www.sciencedirect.com/science/article/pii/S0925231223005507) [![Paper](https://img.shields.io/badge/Elsevier25-b22222)]()
 
-+ [**Interspeech19 Learning Alignment for Multimodal Emotion Recognition from Speech**](Interspeech19_Learning Alignment for Multimodal Emotion Recognition from Speech) [![Paper](https://img.shields.io/badge/Other25-A9A9A9)]()
++ [**Interspeech19 Learning Alignment for Multimodal Emotion Recognition from Speech**](Interspeech19_Learning Alignment for Multimodal Emotion Recognition from Speech) [![Paper](https://img.shields.io/badge/Other25-b22222)]()
 
-+ [**Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition**](https://arxiv.org/abs/2311.11009) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition**](https://arxiv.org/abs/2311.11009) [![Paper](https://img.shields.io/badge/arXiv11-b22222)]()
 
-+ [**Learning discriminative multi-relation representations for multimodal sentiment analysis**](https://www.sciencedirect.com/science/article/pii/S0020025523007107) [![Paper](https://img.shields.io/badge/Elsevier25-32CD32)]()
++ [**Learning discriminative multi-relation representations for multimodal sentiment analysis**](https://www.sciencedirect.com/science/article/pii/S0020025523007107) [![Paper](https://img.shields.io/badge/Elsevier25-b22222)]()
 
-+ [**Leveraging Label Information for Multimodal Emotion Recognition**](https://arxiv.org/abs/2309.02106) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**Leveraging Label Information for Multimodal Emotion Recognition**](https://arxiv.org/abs/2309.02106) [![Paper](https://img.shields.io/badge/arXiv09-b22222)]()
 
-+ [**Multimodal Adversarial Learning Network for Conversational Emotion Recognition**](https://ieeexplore.ieee.org/abstract/document/10121331/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**Multimodal Adversarial Learning Network for Conversational Emotion Recognition**](https://ieeexplore.ieee.org/abstract/document/10121331/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations**](https://aclanthology.org/2020.coling-main.393/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
++ [**A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations**](https://aclanthology.org/2020.coling-main.393/) [![Paper](https://img.shields.io/badge/ACL20-b22222)]()
 
-+ [**Semi-Supervised Learning, Noise Robustness, and Open-Vocabulary Multimodal Emotion Recognition**](https://arxiv.org/abs/2404.17113) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**Semi-Supervised Learning, Noise Robustness, and Open-Vocabulary Multimodal Emotion Recognition**](https://arxiv.org/abs/2404.17113) [![Paper](https://img.shields.io/badge/arXiv04-b22222)]()
 
-+ [**RULE-BASED NETWORK FOR MULTIMODAL EMOTION RECOGNITION**](https://ieeexplore.ieee.org/abstract/document/10447930/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**RULE-BASED NETWORK FOR MULTIMODAL EMOTION RECOGNITION**](https://ieeexplore.ieee.org/abstract/document/10447930/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**Multi-Channel Weight-Sharing Autoencoder Based on Cascade Multi-Head Attention for Multimodal Emotion Recognition**](https://ieeexplore.ieee.org/abstract/document/9693238/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**Multi-Channel Weight-Sharing Autoencoder Based on Cascade Multi-Head Attention for Multimodal Emotion Recognition**](https://ieeexplore.ieee.org/abstract/document/9693238/) [![Paper](https://img.shields.io/badge/IEEE96-b22222)]()
 
-+ [**An Attention-Based Correlation-Aware Multimodal Fusion Framework for Emotion Recognition in Conversations**](https://aclanthology.org/2023.acl-long.824/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
++ [**An Attention-Based Correlation-Aware Multimodal Fusion Framework for Emotion Recognition in Conversations**](https://aclanthology.org/2023.acl-long.824/) [![Paper](https://img.shields.io/badge/ACL23-b22222)]()
 
-+ [**Multilevel Transformer for Multimodal Emotion Recognition**](https://ieeexplore.ieee.org/abstract/document/10446812/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**Multilevel Transformer for Multimodal Emotion Recognition**](https://ieeexplore.ieee.org/abstract/document/10446812/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**Multimodal and Multi-view Models for Emotion Recognition**](https://arxiv.org/abs/1906.10198) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**Multimodal and Multi-view Models for Emotion Recognition**](https://arxiv.org/abs/1906.10198) [![Paper](https://img.shields.io/badge/arXiv06-b22222)]()
 
-+ [**Multimodal Phased Transformer for Sentiment Analysis**](https://aclanthology.org/2021.emnlp-main.189/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
++ [**Multimodal Phased Transformer for Sentiment Analysis**](https://aclanthology.org/2021.emnlp-main.189/) [![Paper](https://img.shields.io/badge/ACL21-b22222)]()
 
-+ [**Multimodal Prompt Transformer with Hybrid Contrastive Learning for Emotion Recognition in Conversation**](https://dl.acm.org/doi/abs/10.1145/3581783.3611805) [![Paper](https://img.shields.io/badge/ACM25-FFA500)]()
++ [**Multimodal Prompt Transformer with Hybrid Contrastive Learning for Emotion Recognition in Conversation**](https://dl.acm.org/doi/abs/10.1145/3581783.3611805) [![Paper](https://img.shields.io/badge/ACM25-b22222)]()
 
-+ [**Multimodal rough set transformer for sentiment analysis and emotion recognition**](https://ieeexplore.ieee.org/abstract/document/10263177/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**Multimodal rough set transformer for sentiment analysis and emotion recognition**](https://ieeexplore.ieee.org/abstract/document/10263177/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**Multimodal Speech Emotion Recognition using Cross Attnention with Aligned Audio and Text**](https://ieeexplore.ieee.org/abstract/document/9414654/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**Multimodal Speech Emotion Recognition using Cross Attnention with Aligned Audio and Text**](https://ieeexplore.ieee.org/abstract/document/9414654/) [![Paper](https://img.shields.io/badge/IEEE94-b22222)]()
 
-+ [**COntextualized GNN based Multimodal Emotion recognitioN**](https://aclanthology.org/2022.naacl-main.306/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
++ [**COntextualized GNN based Multimodal Emotion recognitioN**](https://aclanthology.org/2022.naacl-main.306/) [![Paper](https://img.shields.io/badge/ACL22-b22222)]()
 
-+ [**A Quantum-Inspired Adaptive-Priority-Learning Model for Multimodal Emotion Recognition**](https://aclanthology.org/2023.findings-acl.772/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
++ [**A Quantum-Inspired Adaptive-Priority-Learning Model for Multimodal Emotion Recognition**](https://aclanthology.org/2023.findings-acl.772/) [![Paper](https://img.shields.io/badge/ACL23-b22222)]()
 
-+ [**A REINFORCEMENT LEARNING FRAMEWORK FOR MULTIMODAL EMOTION RECOGNITION**](https://ieeexplore.ieee.org/abstract/document/10446459/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**A REINFORCEMENT LEARNING FRAMEWORK FOR MULTIMODAL EMOTION RECOGNITION**](https://ieeexplore.ieee.org/abstract/document/10446459/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**Self-adaptive Context and Modal-interaction Modeling For Multimodal Emotion Recognition**](https://aclanthology.org/2023.findings-acl.390/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
++ [**Self-adaptive Context and Modal-interaction Modeling For Multimodal Emotion Recognition**](https://aclanthology.org/2023.findings-acl.390/) [![Paper](https://img.shields.io/badge/ACL23-b22222)]()
 
-+ [**Semi-Supervised Multimodal Emotion Recognition with Class-Balanced Pseudo-Labeling**](https://dl.acm.org/doi/abs/10.1145/3581783.3612864) [![Paper](https://img.shields.io/badge/ACM25-FFA500)]()
++ [**Semi-Supervised Multimodal Emotion Recognition with Class-Balanced Pseudo-Labeling**](https://dl.acm.org/doi/abs/10.1145/3581783.3612864) [![Paper](https://img.shields.io/badge/ACM25-b22222)]()
 
-+ [**SPEAKER-CENTRIC MULTIMODAL FUSION NETWORKS FOR EMOTION RECOGNITION IN CONVERSATIONS**](https://ieeexplore.ieee.org/abstract/document/10447720/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**SPEAKER-CENTRIC MULTIMODAL FUSION NETWORKS FOR EMOTION RECOGNITION IN CONVERSATIONS**](https://ieeexplore.ieee.org/abstract/document/10447720/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**Token-channel compounded Cross Attention for Multimodal Emotion Recognition**](https://arxiv.org/abs/2306.13592) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**Token-channel compounded Cross Attention for Multimodal Emotion Recognition**](https://arxiv.org/abs/2306.13592) [![Paper](https://img.shields.io/badge/arXiv06-b22222)]()
 
-+ [**Transformer-Based Deep-Scale Fusion Network for Multimodal Emotion Recognition**](https://ieeexplore.ieee.org/abstract/document/10254334/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**Transformer-Based Deep-Scale Fusion Network for Multimodal Emotion Recognition**](https://ieeexplore.ieee.org/abstract/document/10254334/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**Topic and Style-aware Transformer for Multimodal Emotion Recognition**](https://aclanthology.org/2023.findings-acl.130/) [![Paper](https://img.shields.io/badge/ACL25-DA70D6)]()
++ [**Topic and Style-aware Transformer for Multimodal Emotion Recognition**](https://aclanthology.org/2023.findings-acl.130/) [![Paper](https://img.shields.io/badge/ACL23-b22222)]()
 
-+ [**Towards Unified Multimodal Sentiment Analysis and Emotion Recognition**](https://arxiv.org/abs/2211.11256) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**Towards Unified Multimodal Sentiment Analysis and Emotion Recognition**](https://arxiv.org/abs/2211.11256) [![Paper](https://img.shields.io/badge/arXiv11-b22222)]()
 
-+ [**USING AUXILIARY TASKS IN MULTIMODAL FUSION OF WAV2VEC 2.0 AND BERT FOR MULTIMODAL EMOTION RECOGNITION**](https://ieeexplore.ieee.org/abstract/document/10096586/) [![Paper](https://img.shields.io/badge/IEEE25-1E90FF)]()
++ [**USING AUXILIARY TASKS IN MULTIMODAL FUSION OF WAV2VEC 2.0 AND BERT FOR MULTIMODAL EMOTION RECOGNITION**](https://ieeexplore.ieee.org/abstract/document/10096586/) [![Paper](https://img.shields.io/badge/IEEE10-b22222)]()
 
-+ [**Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation**](https://arxiv.org/abs/2107.06779) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
++ [**Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation**](https://arxiv.org/abs/2107.06779) [![Paper](https://img.shields.io/badge/arXiv07-b22222)]()
 
